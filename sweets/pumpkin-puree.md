@@ -1,6 +1,4 @@
-# Pumpkin puree 
-
-YouTube Short: https://www.youtube.com/watch?v=P0Pv7gj77z0&source_ve_path=MTc4NDI0
+# Pumpkin Puree by Nomante (See [YT Short](https://www.youtube.com/watch?v=P0Pv7gj77z0&source_ve_path=MTc4NDI0))
 
 ## Ingredients 
 - 1 small pumpkin
@@ -13,4 +11,3 @@ YouTube Short: https://www.youtube.com/watch?v=P0Pv7gj77z0&source_ve_path=MTc4ND
 - Place pumpkins on the sheet face down
 - Bake at 350 degrees F for 45 minutes (skin should easily peel off and fork should go right in)
 - [Puree it](https://www.youtube.com/watch?v=P0Pv7gj77z0&source_ve_path=MTc4NDI0)
-

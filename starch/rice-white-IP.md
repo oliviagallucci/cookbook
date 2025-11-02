@@ -1,6 +1,4 @@
-# White Rice - Instant Pot 
-
-### 🍚 Basic White Rice (Jasmine/Basmati)
+# White Rice (Jasmine/Basmati) - Instant Pot 
 
 **Ingredients**
 

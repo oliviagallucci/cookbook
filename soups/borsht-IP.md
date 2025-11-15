@@ -1,3 +1,7 @@
+---
+title: borsht-IP
+layout: default
+---
 # Borsht - Instant Pot 
 
 ## 🕒 Total Time

@@ -1,3 +1,7 @@
+---
+title: rice-brown-IP
+layout: default
+---
 # Brown Rice - Instant Pot 
 
 **Ingredients**

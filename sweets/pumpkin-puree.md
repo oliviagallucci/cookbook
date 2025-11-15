@@ -1,3 +1,7 @@
+---
+title: pumpkin-puree
+layout: default
+---
 # Pumpkin Puree by Nomante (See [YT Short](https://www.youtube.com/watch?v=P0Pv7gj77z0&source_ve_path=MTc4NDI0))
 
 ## Ingredients 

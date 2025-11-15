@@ -1,3 +1,7 @@
+---
+title: rice-white-IP
+layout: default
+---
 # White Rice (Jasmine/Basmati) - Instant Pot 
 
 **Ingredients**

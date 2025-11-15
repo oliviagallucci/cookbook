@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cookbook Home
+title: Cookbook 
 nav_order: 1
 ---
 

@@ -6,14 +6,14 @@ parent: starch
 ---
 # White Rice (Jasmine/Basmati) - Instant Pot 
 
-**Ingredients**
+## Ingredients
 
 * 1 cup rice (rinsed until the water runs mostly clear)
 * 1 cup water
 * Pinch of salt (optional)
 * 1 tsp oil or butter (optional, helps prevent sticking/foam)
 
-**Steps**
+## Steps
 
 1. Rinse your rice — yes, really. It keeps it fluffy, not gluey.
 2. Dump rice + water (+ salt/oil if using) into Instant Pot.

@@ -1,6 +1,8 @@
 ---
 title: rice-brown-IP
 layout: default
+category: starch
+parent: starch
 ---
 # Brown Rice - Instant Pot 
 

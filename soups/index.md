@@ -1,6 +1,7 @@
 ---
 title: soups
 layout: default
+category: soups
 ---
 
 # Soups

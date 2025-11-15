@@ -1,6 +1,7 @@
 ---
 title: starch
 layout: default
+category: starch
 ---
 
 # Starch

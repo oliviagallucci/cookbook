@@ -1,6 +1,8 @@
 ---
 title: rice-white-IP
 layout: default
+category: starch
+parent: starch
 ---
 # White Rice (Jasmine/Basmati) - Instant Pot 
 

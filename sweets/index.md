@@ -1,6 +1,7 @@
 ---
 title: sweets
 layout: default
+category: sweets
 ---
 
 # Sweets

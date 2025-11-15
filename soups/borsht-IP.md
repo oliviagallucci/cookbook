@@ -1,6 +1,8 @@
 ---
 title: borsht-IP
 layout: default
+category: soups
+parent: soups
 ---
 # Borsht - Instant Pot 
 

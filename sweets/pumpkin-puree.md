@@ -1,6 +1,8 @@
 ---
 title: pumpkin-puree
 layout: default
+category: sweets
+parent: sweets
 ---
 # Pumpkin Puree by Nomante 
 

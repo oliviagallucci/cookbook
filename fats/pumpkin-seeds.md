@@ -41,7 +41,7 @@ You want:
 
 * Light golden brown
 * Crispy edges
-* Zero soggy energy
+* Not soggy
 
 Let cool. They crisp more as they cool!
 

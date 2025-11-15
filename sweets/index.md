@@ -2,6 +2,7 @@
 title: sweets
 layout: default
 category: sweets
+nav_order: 4
 ---
 
 # Sweets

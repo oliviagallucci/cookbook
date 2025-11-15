@@ -1,10 +1,24 @@
 title: Cookbook
 description: Recipe collection 
-baseurl: "/cookbook" # repository name for a project site
-url: "https://oliviagallucci.github.io" # pages root domain
+baseurl: "/cookbook"
+url: "https://oliviagallucci.github.io"
 markdown: kramdown
-theme: minima
-# exclude non-site artifacts
+
+# Use just-the-docs via remote_theme for GitHub Pages
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# Just the Docs settings
+search_enabled: true
+logo: # add a relative path later if desired e.g. /assets/logo.png
+color_scheme: nil # light (default); can set "dark" later
+
+# Navigation: add top-level pages explicitly if needed
+# nav_external_links:
+#   - title: GitHub
+#     url: https://github.com/oliviagallucci/cookbook
+
 exclude:
   - LICENSE
 collections: []

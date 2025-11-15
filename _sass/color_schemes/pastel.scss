@@ -1,0 +1,10 @@
+// Custom pastel color scheme based on default light
+// Override only needed variables.
+$body-background-color: #FFF9E6;
+$body-text-color: #2E2E2E;
+$link-color: #C08A00;
+$link-color-hover: darken($link-color, 10%);
+$link-color-visited: #946700;
+$sidebar-color: #FFF4D1;
+$border-color: #E8DCAA;
+$btn-primary-color: $link-color;

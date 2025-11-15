@@ -1,22 +1,6 @@
 ---
 ---
-/* Custom overrides for Just the Docs */
-:root {
-  /* Light pastel yellow background */
-  --body-bg: #FFF9E6;
-  /* Just the Docs uses --body-background-color in newer versions */
-  --body-background-color: #FFF9E6;
-  --body-background: #FFF9E6;
-  /* Sidebar slightly deeper tone */
-  --sidebar-bg: #FFF4D1;
-  --sidebar-background-color: #FFF4D1;
-  /* Optional: adjust search bar background for contrast */
-  --search-background-color: #FFF4D1;
-  /* Custom link & border colors */
-  --link-color: #C08A00;
-  --border-color: #E8DCAA;
-}
-
-/* Fallback + force override if variables not referenced */
-body, .site, .main-content { background-color: #FFF9E6 !important; }
-nav.sidebar { background-color: #FFF4D1 !important; }
+/* Minimal custom CSS (color scheme handled via _sass/color_schemes/pastel.scss) */
+/* Add any non-variable based tweaks below */
+/* Example: tweak code block border using scheme border color */
+pre, code, .highlight { border: 1px solid #E8DCAA; }

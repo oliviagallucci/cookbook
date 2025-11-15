@@ -12,7 +12,7 @@ plugins:
 # Just the Docs settings
 search_enabled: true
 logo: # add a relative path later if desired e.g. /assets/logo.png
-color_scheme: nil # light (default); can set "dark" later
+color_scheme: pastel # custom scheme defined in _sass/color_schemes/pastel.scss
 
 # Navigation: add top-level pages explicitly if needed
 # nav_external_links:

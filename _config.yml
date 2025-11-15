@@ -21,4 +21,8 @@ color_scheme: nil # light (default); can set "dark" later
 
 exclude:
   - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
 collections: []

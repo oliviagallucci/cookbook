@@ -1,0 +1,17 @@
+---
+---
+/* Custom overrides for Just the Docs */
+:root {
+  /* Light pastel yellow background */
+  --body-bg: #FFF9E6;
+  /* Sidebar slightly deeper tone */
+  --sidebar-bg: #FFF4D1;
+  /* Optional: adjust search bar background for contrast */
+  --search-background-color: #FFF4D1;
+  /* Custom link & border colors */
+  --link-color: #C08A00;
+  --border-color: #E8DCAA;
+}
+
+/* If theme uses legacy variable names fallback */
+body { background-color: var(--body-bg); }

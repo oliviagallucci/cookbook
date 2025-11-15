@@ -1,0 +1,10 @@
+title: Cookbook
+description: Simple recipe collection 
+baseurl: "/cookbook" # repository name for a project site
+url: "https://oliviagallucci.github.io" # Pages root domain
+markdown: kramdown
+theme: minima
+# Exclude non-site artifacts
+exclude:
+  - LICENSE
+collections: []

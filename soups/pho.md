@@ -1,4 +1,9 @@
-
+---
+title: pho
+layout: default
+category: soups
+parent: soups
+---
 # Noodle-less Pho - Instant Pot
 
 Also known as "no-noodle base pho."

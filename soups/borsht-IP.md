@@ -6,18 +6,18 @@ parent: soups
 ---
 # Borsht - Instant Pot 
 
-## 🕒 Total Time
+## Total Time - 1 hour
 
-* **Prep Time**: 15–20 minutes
-* **Cook Time**: 25 minutes (plus pressure release)
+* **Prep Time**: 30 minutes
+* **Cook Time**: 30 minutes (plus pressure release)
 
-## 🍽 Servings
+## Servings
 
 * 6–8 servings
 
 ---
 
-## 🧄 Ingredients
+## Ingredients
 
 **Vegetables:**
 
@@ -46,7 +46,7 @@ parent: soups
 
 ---
 
-## 👩‍🍳 Instructions
+## Instructions
 
 ### 1. **Sauté the Aromatics**
 

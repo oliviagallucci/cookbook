@@ -4,8 +4,12 @@
 :root {
   /* Light pastel yellow background */
   --body-bg: #FFF9E6;
+  /* Just the Docs uses --body-background-color in newer versions */
+  --body-background-color: #FFF9E6;
+  --body-background: #FFF9E6;
   /* Sidebar slightly deeper tone */
   --sidebar-bg: #FFF4D1;
+  --sidebar-background-color: #FFF4D1;
   /* Optional: adjust search bar background for contrast */
   --search-background-color: #FFF4D1;
   /* Custom link & border colors */
@@ -13,5 +17,6 @@
   --border-color: #E8DCAA;
 }
 
-/* If theme uses legacy variable names fallback */
-body { background-color: var(--body-bg); }
+/* Fallback + force override if variables not referenced */
+body, .site, .main-content { background-color: #FFF9E6 !important; }
+nav.sidebar { background-color: #FFF4D1 !important; }

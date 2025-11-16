@@ -23,7 +23,7 @@ Welcome! Browse the recipe categories:
 - [Sweets](/sweets/) – pumpkin puree
 ```
 
-Each Markdown file in these folders will be rendered by Jekyll automatically. If you want cleaner permalinks later, we can convert these folders into collections by renaming them with a leading underscore and adding collection config.
+Each Markdown file in these folders will be rendered by Jekyll automatically. 
 
 ## Updating
 
